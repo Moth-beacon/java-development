@@ -27,7 +27,7 @@ public class SandwichShop {
         System.out.println("Enter your age: ");
         int age = input.nextInt();
 
-        cost *= ((age <= 17) ? 0.9 : (age >= 65 ? 0.8 : 1.0));
+        cost *= ((age <= 17) ? 0.9 : (age >= 65 ? 0.8 : 1.0)); //one line boolean with the discount applied for age
 
         System.out.printf("Total Due: $%.2f\n", cost);
 
