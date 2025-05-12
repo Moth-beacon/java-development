@@ -1,0 +1,41 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="Yt136NSGuHAfs1EAY8iq">
+    <mxGraphModel dx="1540" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-1" value="vehichel&lt;div&gt;&lt;hr&gt;-Speed&lt;/div&gt;&lt;div&gt;-Fuel level&lt;/div&gt;&lt;div&gt;&lt;hr&gt;+Drive&lt;/div&gt;&lt;div&gt;+refuel&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JTEkVXNNRMo4U_KFNmDE-2" target="JTEkVXNNRMo4U_KFNmDE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-2" value="Moped" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTEkVXNNRMo4U_KFNmDE-4" target="JTEkVXNNRMo4U_KFNmDE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-4" value="Car" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTEkVXNNRMo4U_KFNmDE-6" target="JTEkVXNNRMo4U_KFNmDE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-6" value="Semi-Truck" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JTEkVXNNRMo4U_KFNmDE-8" target="JTEkVXNNRMo4U_KFNmDE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTEkVXNNRMo4U_KFNmDE-8" value="Hover Craft" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
