@@ -52,7 +52,7 @@ public class Main {
             if (age < minAge) minAge = age;
         }
 
-        double averageAge = (double) totalAge / people.size();
+        int averageAge = (int) totalAge / people.size();
         System.out.println("\nAverage Age: " + averageAge);
         System.out.println("Oldest Age: " + maxAge);
         System.out.println("Youngest Age: " + minAge);
