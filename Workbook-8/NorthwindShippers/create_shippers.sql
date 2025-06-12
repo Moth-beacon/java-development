@@ -1,0 +1,5 @@
+CREATE TABLE shippers (
+    ShipperID INT AUTO_INCREMENT PRIMARY KEY,
+    CompanyName VARCHAR(40) NOT NULL,
+    Phone VARCHAR(24)
+);
